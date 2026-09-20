@@ -92,6 +92,6 @@ B.Tech Computer Science Student | Aspiring Data Analyst
 
 ## 📊 Dashboard Preview
 
-[![Startup Funding Dashboard](startup-funding-dashboard.png)](startup-funding-dashboard.png)
+[![Startup Funding Analytics Dashboard](Screenshot%202026-09-20%20171633(1).png)](Screenshot%202026-09-20%20171633(1).png)
 
 > Click the dashboard preview to view the full-size image.
