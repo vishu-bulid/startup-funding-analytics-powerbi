@@ -4,7 +4,6 @@ An interactive **Power BI dashboard** designed to analyze startup funding trends
 
 ## 📊 Dashboard Preview
 
-![Startup Funding Analytics Dashboard](Screenshot%202026-09-20%20171633(1).png)
 
 ## 🎯 Project Overview
 
@@ -89,3 +88,6 @@ B.Tech Computer Science Student | Aspiring Data Analyst
 ---
 
 ⭐ If you find this project useful, feel free to explore the repository.
+
+
+![Startup Funding Analytics Dashboard](Screenshot%202026-09-20%20171633(1).png)
