@@ -90,4 +90,8 @@ B.Tech Computer Science Student | Aspiring Data Analyst
 ⭐ If you find this project useful, feel free to explore the repository.
 
 
-![Startup Funding Analytics Dashboard](Screenshot%202026-09-20%20171633(1).png)
+## 📊 Dashboard Preview
+
+[![Startup Funding Dashboard](startup-funding-dashboard.png)](startup-funding-dashboard.png)
+
+> Click the dashboard preview to view the full-size image.
