@@ -87,11 +87,11 @@ B.Tech Computer Science Student | Aspiring Data Analyst
 
 ---
 
-⭐ If you find this project useful, feel free to explore the repository.
+### ☕ Thanks for Visiting!
+
+If you found this project useful or interesting, feel free to ⭐ **Star the repository** and connect with me.
+
+**Data → Analysis → Insights → Decisions 📊🚀**
 
 
-## 📊 Dashboard Preview
 
-[![Startup Funding Analytics Dashboard](Screenshot%202026-09-20%20171633(1).png)](Screenshot%202026-09-20%20171633(1).png)
-
-> Click the dashboard preview to view the full-size image.
